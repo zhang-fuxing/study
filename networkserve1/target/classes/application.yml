@@ -1,8 +1,0 @@
-server:
-    port: 2331
-jasypt:
-    encryptor:
-        password: geologic
-kingshine:
-    add: 123456lll
-    pwd: ENC(ac5YKzrVWeQ97ZeaqBEmACiYPzeifa/KT8X1yqq1bNUxuqaFaGuYHZ8r7yXgAHAe)
