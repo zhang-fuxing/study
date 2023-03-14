@@ -1,0 +1,20 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/target/
+
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+# 项目排除路径
+/cloud-project/mygateway/target/
+/cloud-project/s2/target/
+/java-iostream/target/
+/Java多线程/target/
+/simpleServer/target/
+/spring/target/
+/算法学习/target/

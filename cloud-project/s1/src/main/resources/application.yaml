@@ -1,0 +1,5 @@
+config:
+  info: aaaaaa
+
+server:
+  port: 2335

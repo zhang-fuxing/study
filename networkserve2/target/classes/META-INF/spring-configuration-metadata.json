@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "org.data",
+      "type": "com.example.networkserve2.config.WebConfig",
+      "sourceType": "com.example.networkserve2.config.WebConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "org.data.pwd",
+      "type": "java.lang.String",
+      "sourceType": "com.example.networkserve2.config.WebConfig"
+    },
+    {
+      "name": "org.data.url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.networkserve2.config.WebConfig"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <file>
+        <fileName>aaa</fileName>
+        <fileSuffix>.txt</fileSuffix>
+        <filePath>D:/</filePath>
+    </file>
+    <file>
+        <fileName>bbb</fileName>
+        <fileSuffix>.txt</fileSuffix>
+        <filePath>D:/a</filePath>
+    </file>
+</root>

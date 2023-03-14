@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: service2
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.235.40:8848
+        namespace: cloud1-id1
+        group: project1
+      config:
+        server-addr: 192.168.235.40:8848
+        file-extension: yaml
+        namespace: cloud1-id1
+        group: project1

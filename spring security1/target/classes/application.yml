@@ -1,0 +1,10 @@
+#spring:
+#  datasource:
+#    # 数据源基本配置
+#    username: username
+#    password: password
+#    driver-class-name: oracle.jdbc.OracleDriver
+#    url: jdbc:oracle:thin:@localhost:1521:dbname
+#    type: com.alibaba.druid.pool.DruidDataSource
+server:
+  port: 3001

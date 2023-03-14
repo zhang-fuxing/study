@@ -1,0 +1,10 @@
+server:
+    port: 2332
+
+jasypt:
+    encryptor:
+        password: TKzhc3fz
+org:
+    data:
+        url: localhost
+        pwd: ENC(kingshine)
